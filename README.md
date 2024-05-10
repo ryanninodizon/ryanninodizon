@@ -1,6 +1,5 @@
-### Hi there! I'm Ryan also know as "Learn with Jon" 👋
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/profile-banner.JPG)
-
+### Hi there! I'm Ryan also know as "Learn with Jon" 👋
 <!--
 **ryanninodizon/ryanninodizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
