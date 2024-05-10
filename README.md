@@ -1,8 +1,6 @@
 ### Hi there! I'm Ryan also know as "Learn with Jon" 👋
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/profile-banner.JPG)
-I am always passionate to transform complex challenges into elegant software solutions.
 
-With nearly two decades of experience in software development and leadership I possess a strong skill set in coding, software architecture, design principles and Cloud technologies particularly using Azure. I am passionate about leading software development teams and providing technical guidance to deliver exceptional software products.
 
 <!--
 **ryanninodizon/ryanninodizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
