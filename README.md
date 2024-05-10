@@ -1,6 +1,8 @@
 ### Hi there! I'm Ryan also know as "Learn with Jon" 👋
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/profile-banner.JPG)
 
+⚡ Fun fact: 
+> "If you have a solid foundation in software development, never doubt that AI will take your job in the near future."
 
 <!--
 **ryanninodizon/ryanninodizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
