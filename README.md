@@ -1,4 +1,4 @@
-### Hi there! I'm Ryan also know as "Learn with Jon" 👋
+### Hi there! I'm Ryan also known as "Learn with Jon" 👋
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/profile-banner.JPG)
 
 😄 Just a friendly reminder: 
