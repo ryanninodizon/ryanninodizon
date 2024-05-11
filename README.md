@@ -1,7 +1,7 @@
 ### Hi there! I'm Ryan also know as "Learn with Jon" 👋
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/profile-banner.JPG)
 
-⚡ Fun fact: 
+😄 Fun fact: 
 > "If you have a solid foundation in software development, never doubt that AI will take your job in the near future."
 
 <!--
