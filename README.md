@@ -1,4 +1,5 @@
-### Hi there! I'm Ryan Niño Dizon also known as "Learn with Jon" 👋 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanninodizon/)
+### Hi there! I'm Ryan Niño Dizon also known as "Learn with Jon" 👋 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanninodizon/)
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/mvp-banner-badge.png)
 
 😄 Just a friendly reminder: 
