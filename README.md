@@ -1,4 +1,4 @@
-### Hi there! I'm Ryan also known as "Learn with Jon" 👋
+### Hi there! I'm Ryan Niño Dizon also known as "Learn with Jon" 👋
 ![](https://github.com/ryanninodizon/ryanninodizon/blob/main/mvp-banner-badge.png)
 
 😄 Just a friendly reminder: 
