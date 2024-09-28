@@ -5,7 +5,7 @@
 [![Learn with Jon](https://img.shields.io/youtube/channel/subscribers/UC5LN8d3ubdOw3YzOF_anAQQ)](https://www.youtube.com/@LearnWithJon)
 
 😄 Just a friendly reminder: 
-> "If you have a solid foundation in software development, never doubt that AI will take your job in the near future."
+> ""Any man who must say, 'I am the king' is no true king." -𝐓𝐲𝐰𝐢𝐧 𝐋𝐚𝐧𝐧𝐢𝐬𝐭𝐞𝐫"
 
 <!--
 **ryanninodizon/ryanninodizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
